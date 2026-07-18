@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbG9TbEZNWWJoeWxMWDU0UFFQOVpKZ3FMaHkvQ3ZLSVBWNy8wMUJVZDIxMWxzb2J0VHllN1RxZ1NrcWN0dXFmY2NQMVBxbXIvTi9EbDJWdU5HelpnVVpPamhweWpvNUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDE2MjIxCWZpbGU6SkVSVkEgVHJhbnNjcmliZXJfMi4wLjBfeDY0LXNldHVwLmV4ZQpLUmJrUFkzUnNzVDZVU2wvb3UySE1QaGdNREtpNURRcXhDRUlhajBLTnpRS29pV09pMG1ZVWhKbnpRLzR3NTBoUWFoQWtJeGVaN3BPdFlGWUR3bmlEZz09Cg==",
+                                             "url":  "https://github.com/CodeBreaker822/JervaTranscriber/raw/main/updates/app-v2.0.0/JERVA%20Transcriber_2.0.0_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-07-18T23:55:10Z",
+    "version":  "2.0.0",
+    "notes":  "JERVA Transcriber 2.0.0 update."
+}
