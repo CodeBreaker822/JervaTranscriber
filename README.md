@@ -4,7 +4,7 @@
 
 JERVA Transcriber helps you capture live audio, upload recordings, review transcript sections, polish text, summarize content, and export the result from one focused workspace.
 
-Current version: `2.0.8`
+Current version: `2.0.9`
 
 ---
 
@@ -13,11 +13,11 @@ Current version: `2.0.8`
 Follow these steps on GitHub:
 
 1. Click the `updates` folder.
-2. Open the newest version folder, for example `app-v2.0.8`.
+2. Open the newest version folder, for example `app-v2.0.9`.
 3. Click this installer:
 
 ```text
-JERVA Transcriber_2.0.8_x64-setup.exe
+JERVA Transcriber_2.0.9_x64-setup.exe
 ```
 
 4. Click **Download raw file**.
