@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbG9TbEZNWWJoeXJ6V2kza1R1YUJyWFZFSkdOYWM2a1ZPcWdkb0lISVlVblVoV2psS1RFMjRHN3YzWU9OSWptOHZQL2QzLzMvUERNUk90N3l1eVdOVEJpalp1NEpZMlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTAwMTA1CWZpbGU6SkVSVkEgVHJhbnNjcmliZXJfMi4xLjFfeDY0LXNldHVwLmV4ZQpncjZMNFFDaS9sRm9jUXJvWkZrMWxLZFJsOTQrSHh1akVsMTY3ZzVwcFJnR2E2YW1GVHdnY2ZjNXpOeTVlRWhDM2tqTGpGcVA3K3hiczF5UFdBbFJBUT09Cg==",
-                                             "url":  "https://github.com/CodeBreaker822/JervaTranscriber/raw/main/updates/app-v2.1.1/JERVA%20Transcriber_2.1.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVjNreUQ0UkJhTWZ2eFhnWURVT3Q1UTh6ODFFVGxWM2hyek8yNDkwRWFjUzQ0cmtHK25PMXo4ZXd0UkdCdUk0Y0pIMHVEVmRQWm9HVEVwTjVSWWVkNStZclpNbFBMVEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzE3MjM0CWZpbGU6SkVSVkEgVHJhbnNjcmliZXJfMi4xLjJfeDY0LXNldHVwLmV4ZQpGVDhsWXpmUlZxQXNmMGUxa0NoVHN0MlJ6MTl4Q1BHT01nVWx4Qk5tcFpJa2xlblZtMHlScWwxY2hUdkJ1Vk82cytLL3czVWl2SUtGM3RzK1ArV0JBUT09Cg==",
+                                             "url":  "https://github.com/CodeBreaker822/JervaTranscriber/raw/main/updates/app-v2.1.2/JERVA%20Transcriber_2.1.2_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-07-31T12:16:33Z",
-    "version":  "2.1.1",
-    "notes":  "JERVA Transcriber 2.1.1 update."
+    "pub_date":  "2026-08-21T13:02:12Z",
+    "version":  "2.1.2",
+    "notes":  "JERVA Transcriber 2.1.2 update."
 }
